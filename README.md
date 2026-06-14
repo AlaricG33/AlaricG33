@@ -12,8 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/alaric-gough-89039931b/" />][linkedin]
+[<img align="left" alt="J | LinkedIn" width="22px" src="https://www.linkedin.com/in/alaric-gough-89039931b/" />][linkedin]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]:(https://www.linkedin.com/in/alaric-gough-89039931b/)
